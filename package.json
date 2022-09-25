@@ -1,0 +1,20 @@
+{
+  "name": "220925-prac-sever-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonhyoungmin/220925-prac-sever-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeonhyoungmin/220925-prac-sever-db/issues"
+  },
+  "homepage": "https://github.com/jeonhyoungmin/220925-prac-sever-db#readme"
+}
